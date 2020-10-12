@@ -1,0 +1,3 @@
+transeq seqdump1.txt
+
+mafft prot_seq1.pet > prot_alignment1.txt
